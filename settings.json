@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "juiceboys.aternos.me:22889",
+    "ip": "juiceboys.aternos.me",
     "port": 22889,
     "version": "26.2",
     "try-creative": false
