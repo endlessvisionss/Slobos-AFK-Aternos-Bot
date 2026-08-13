@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "juiceboys.aternos.me:22889",
+    "port": 22889,
     "version": "",
     "try-creative": false
   },
